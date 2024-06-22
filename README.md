@@ -1,4 +1,4 @@
-# Hey there! I'm Reece Ballard! 👋
+# Hey! I'm Reece Ballard! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RBallardDev&color=green)
 

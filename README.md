@@ -8,7 +8,7 @@ Hi, I’m Reece Ballard! I’m a Computer Science major at Occidental College wi
 
 🔍 **Technical Proficiencies:**
 
-- **Languages:** Java, Kotlin, C#, JavaScript, Python, Dart, SQL, Godot Script
+- **Languages:** Java, Kotlin, C#, JavaScript, Python, Dart, SQL, GDScript
 - **Frameworks/Tools:** React Native, Appwrite, Figma, MVC, Godot Engine, GitHub, VSCode
 
 ---

@@ -98,8 +98,8 @@ This app reflects my passion for impactful projects, leadership in development, 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBallardDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RBallardDev&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RBallardDev&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBallardDev)
 
 ---
 
